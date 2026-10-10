@@ -46,8 +46,8 @@ This project focuses on analyzing retail sales data using SQL in PostgreSQL. The
 
 ## Project Files
 
-- **`retail_sales_queries.sql`** — Contains the SQL queries used to answer the business questions.
-- **Dataset file** — Contains the retail sales data used for the analysis. The exact filename and format are shown in the repository.
+- **`retail_Sales_SQL_Queries.sql`** — Contains the SQL queries used to answer the business questions.
+- **retail_sql_dataset.sql** — Contains the retail sales data used for the analysis. The exact filename and format are shown in the repository.
 - **`business_insights.md`** — Presents the key findings, their business implications, and recommendations.
 
 ## Conclusion
