@@ -8,9 +8,9 @@
 |---|---|
 | Customers | 1,000 |
 | Orders | 5,000 |
-| Total revenue (2025 + 2026) | 2,517,303,000 |
+| Total revenue (2025 + 2026) | #2,517,303,000 |
 | Average order value | ~502,000 – 504,000 (stable across both years) |
-| Pending payments | 206,656,000 (about 8% of revenue) |
+| Pending payments | #206,656,000 (about 8% of revenue) |
 | Customers who never ordered | 7 (0.7%) |
 
 ---
